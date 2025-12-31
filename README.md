@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# 🏦 useReducer Bank Account
+
+A functional bank account simulation that demonstrates advanced state management in React using the `useReducer` hook.
+
+## 🌟 Key Features
+- **Account Lifecycle:** Open and close accounts with specific conditions.
+- **Transaction Logic:** Deposit and withdraw funds with balance validation.
+- **Loan System:** Request and pay back loans, managing multiple states simultaneously.
+- **Interactive UI:** Buttons dynamically enable/disable based on the account's current state.
+
+## 🛠️ Technical Concepts
+- **`useReducer`:** Centralized state logic for predictable state updates.
+- **Conditional Styling:** Using `opacity` and disabled states to guide user interaction.
+- **Clean State Management:** Resetting the entire app to its initial state upon closing the account.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
